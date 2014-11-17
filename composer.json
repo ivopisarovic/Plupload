@@ -1,5 +1,5 @@
 {
-        "name": "echo511/plupload",
+        "name": "ivopisarovic/plupload",
         "type": "library",
         "description": "Plupload component for Nette Framework.",
         "keywords": ["echo511", "nette", "plupload"],
